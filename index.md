@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Hackathon-Docs-2021
 
 Welcome to the documentation page for the 4th Annual Hackathon hosted by UWB-ACM. These pages will collect various information and useful links aimed at helping you hit the ground running. You can visit the main website for the event [here](https://uwbhacks.com/).
